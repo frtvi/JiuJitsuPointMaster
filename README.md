@@ -1,6 +1,6 @@
-# JiuJitsuPointMaster
+# Jiu-Jitsu PointMaster
 
-O JiuJitsuPointMaster é uma aplicação simples e intuitiva para contagem de pontos em lutas de Jiu-Jitsu. Com essa ferramenta, você pode registrar facilmente a pontuação das lutas, atribuindo pontos a movimentos específicos.
+O Jiu-Jitsu PointMaster é uma aplicação simples e intuitiva para contagem de pontos em lutas de Jiu-Jitsu. Com essa ferramenta, você pode registrar facilmente a pontuação das lutas, atribuindo pontos a movimentos específicos.
 
 ## Funcionalidades
 
